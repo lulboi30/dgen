@@ -1,5 +1,5 @@
 #! /bin/bash
 
 echo "Compiling..."
-gcc -std=c99 ./dgen/main.c -o ./dgen
+gcc -std=c99 ./src/main.c -o ./dgen
 echo "Done! run ./dgen"
